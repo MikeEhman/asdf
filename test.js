@@ -1,5 +1,5 @@
 test("test1", function(){
 	var testVal = 1;
 	equal(1, testVal, "testVal is equal to 1");
-	equal(2, testVal, "testVal is equal to 2");
+	equal(1, testVal, "testVal is equal to 1");
 });
