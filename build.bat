@@ -1,1 +1,1 @@
-cd..
+c:\Chutzpah\chutzpah.console.exe ./test.js
